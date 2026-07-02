@@ -21,6 +21,15 @@
   <a href="https://hugoblox.com/templates/saas-landing-page?utm_source=github&utm_medium=readme&utm_content=demo">Live Demo</a>
 </p>
 
+---
+
+## 📄 프로젝트 문서 (Documentation)
+이 프로젝트의 빌드 방법 및 발생 가능한 문제 해결 방안은 아래 문서를 참고하세요:
+- [제작 매뉴얼 (Production Manual)](doc/production_manual.md)
+- [문제보고서 (Troubleshooting Report)](doc/troubleshooting_report.md)
+
+---
+
 <div align="center">
 
   <a href="https://github.com/HugoBlox/hugo-theme-saas-landing-page">
