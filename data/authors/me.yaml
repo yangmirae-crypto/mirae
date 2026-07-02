@@ -1,0 +1,26 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Mirae Yang
+  given: Mirae
+  family: Yang
+  pronunciation: Mirae Yang
+  pronouns: she/her
+status:
+  icon: "✨"
+role: 라이프스타일 멘토 & 비즈니스 오너
+bio: 건강한 일상과 내일의 성장을 돕는 라이프스타일 멘토입니다. 나를 세우고 타인을 돕는 삶, 당신의 긍정적인 변화를 돕습니다.
+affiliations:
+  - name: New City, NY 및 뉴저지 일대
+    url: "#contact"
+links:
+  - icon: solid/envelope
+    url: mailto:yangmirae@gmail.com
+    label: E-mail Me
+  - icon: brands/instagram
+    url: https://www.instagram.com/
+    label: Instagram
+  - icon: rss
+    url: ./blog/index.xml
+    label: Subscribe to my blog via RSS feed

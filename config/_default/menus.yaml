@@ -1,0 +1,69 @@
+# Navigation Links
+#   To link a page section, specify the URL as a hash `/#` followed by the `id` of the section.
+#   The `weight` parameter defines the order that the links will appear in.
+
+main:
+  - name: 홈
+    url: /#top
+    weight: 10
+  - name: 소개
+    url: /#about
+    weight: 20
+  - name: 주요활동
+    url: /#activities
+    weight: 30
+  - name: 서비스안내
+    url: /#services
+    weight: 40
+  - name: 블로그
+    url: /blog/
+    weight: 50
+  - name: 후기
+    url: /#testimonials
+    weight: 60
+  - name: FAQ
+    url: /#faq
+    weight: 70
+  - name: 문의하기
+    url: /#contact
+    weight: 80
+
+# Footer links (4-column layout)
+#   Top-level items become column headings, children become links.
+footer:
+  - name: 서비스
+    weight: 10
+  - parent: 서비스
+    name: 건강 라이프스타일 멘토링
+    url: /#services
+    weight: 10
+  - parent: 서비스
+    name: 자기 계발 북클럽 리딩
+    url: /#services
+    weight: 20
+
+  - name: 커뮤니티
+    weight: 20
+  - parent: 커뮤니티
+    name: 소개
+    url: /#about
+    weight: 10
+  - parent: 커뮤니티
+    name: 블로그
+    url: /blog/
+    weight: 20
+  - parent: 커뮤니티
+    name: 문의하기
+    url: /#contact
+    weight: 30
+
+  - name: 법적고지
+    weight: 40
+  - parent: 법적고지
+    name: 개인정보처리방침
+    url: /privacy/
+    weight: 10
+  - parent: 법적고지
+    name: 이용약관
+    url: /terms/
+    weight: 20
