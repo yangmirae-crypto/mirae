@@ -1,4 +1,4 @@
-# 제작 매뉴얼 (Production Manual)
+# 제작 매뉴얼 (Production Manual) 
 
 이 문서는 라이프스타일 멘토 Mirae Yang의 홈페이지 제작 과정을 상세히 기록하여 프로젝트의 원활한 유지보수 및 관리를 돕는 매뉴얼입니다.
 
